@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Customer_ID,Segment,Region,Category,Sub_Category,Product_Name,Sales,Profit,Quantity
+1001,2023-04-25,C001,Corporate,East,Furniture,Bookcases,Wooden Bookcase,419.98,21.53,1
+1002,2023-06-29,C002,Consumer,West,Furniture,Tables,Glass Dining Table,1978.86,370.99,4
+1003,2023-06-05,C003,Home Office,West,Technology,Smartphones,iPhone 14,1414.48,79.01,1
+1004,2023-09-18,C004,Home Office,West,Technology,Accessories,Wireless Mouse,548.0,111.8,3
+1005,2023-01-27,C005,Home Office,East,Office Supplies,Art,Marker Set,1743.33,252.65,5
+1006,2023-11-08,C006,Corporate,West,Technology,Smartphones,Samsung Galaxy S22,1495.59,84.75,1
+1007,2023-11-10,C007,Consumer,Central,Technology,Monitors,"HP 27"" Monitor",1248.95,164.68,5
+1008,2023-12-14,C008,Consumer,East,Furniture,Bookcases,Wooden Bookcase,294.9,73.2,5
+1009,2023-11-09,C009,Home Office,Central,Furniture,Bookcases,Wooden Bookcase,640.45,60.64,4
+1010,2023-06-08,C010,Home Office,East,Furniture,Sofas,Leather Sofa,82.07,7.28,3
+1011,2023-01-29,C011,Corporate,East,Office Supplies,Art,Marker Set,471.32,64.31,4
+1012,2023-09-30,C012,Corporate,East,Furniture,Bookcases,Wooden Bookcase,1904.63,212.43,4
+1013,2023-10-21,C013,Consumer,West,Furniture,Sofas,Fabric Sofa,1905.01,268.18,4
+1014,2023-01-09,C014,Home Office,West,Office Supplies,Binders,Plastic Binder,1505.85,253.45,2
+1015,2023-04-19,C015,Corporate,East,Technology,Monitors,"Dell 24"" Monitor",657.61,86.34,2
+1016,2023-09-27,C016,Corporate,Central,Furniture,Bookcases,Wooden Bookcase,1584.7,233.51,1
+1017,2023-04-25,C017,Corporate,South,Furniture,Sofas,Fabric Sofa,1337.56,240.54,1
+1018,2023-11-27,C018,Home Office,South,Furniture,Chairs,Office Chair Deluxe,1857.83,441.76,5
+1019,2023-06-25,C019,Home Office,South,Technology,Smartphones,Samsung Galaxy S22,655.71,163.05,4
+1020,2023-03-01,C020,Consumer,East,Office Supplies,Storage,Storage Box,1773.74,290.37,4
+1021,2023-09-30,C021,Consumer,East,Office Supplies,Binders,Plastic Binder,471.32,53.33,2
+1022,2023-02-18,C022,Corporate,Central,Technology,Laptops,HP Pavilion Laptop,675.34,141.13,1
+1023,2023-12-08,C023,Consumer,West,Technology,Accessories,Keyboard Combo,1273.05,117.12,1
+1024,2023-12-21,C024,Consumer,South,Office Supplies,Art,Sketch Pad,561.79,140.38,5
+1025,2023-02-22,C025,Home Office,Central,Furniture,Bookcases,Metal Bookcase,1857.64,118.72,5
+1026,2023-06-13,C026,Corporate,South,Office Supplies,Paper,A4 Copy Paper Pack,327.34,23.36,5
+1027,2023-03-05,C027,Corporate,West,Office Supplies,Binders,Ring Binder Pack,1848.88,118.99,1
+1028,2023-09-06,C028,Home Office,West,Office Supplies,Storage,Storage Box,279.23,54.18,1
+1029,2023-11-05,C029,Corporate,West,Office Supplies,Binders,Ring Binder Pack,1685.14,373.9,5
+1030,2023-03-07,C030,Home Office,Central,Office Supplies,Paper,A4 Copy Paper Pack,1135.04,102.53,2
+1031,2023-07-11,C031,Home Office,West,Furniture,Bookcases,Metal Bookcase,771.01,41.62,2
+1032,2023-08-22,C032,Corporate,East,Technology,Monitors,"HP 27"" Monitor",1628.81,306.53,5
+1033,2023-05-05,C033,Corporate,South,Office Supplies,Art,Sketch Pad,677.0,105.63,5
+1034,2023-05-06,C034,Corporate,East,Technology,Monitors,"HP 27"" Monitor",648.65,60.99,2
+1035,2023-06-02,C035,Home Office,East,Office Supplies,Binders,Ring Binder Pack,1767.91,419.05,3
+1036,2023-05-12,C036,Home Office,East,Technology,Monitors,"HP 27"" Monitor",1701.86,138.6,5
+1037,2023-06-27,C037,Corporate,East,Technology,Monitors,"HP 27"" Monitor",73.28,14.46,2
+1038,2023-07-12,C038,Consumer,West,Technology,Monitors,"Dell 24"" Monitor",1388.08,241.88,3
+1039,2023-05-25,C039,Corporate,West,Furniture,Chairs,Office Chair Deluxe,846.19,179.12,2
+1040,2023-08-13,C040,Home Office,East,Furniture,Bookcases,Metal Bookcase,119.04,14.52,5
+1041,2023-09-28,C041,Corporate,East,Office Supplies,Binders,Ring Binder Pack,321.02,52.65,2
+1042,2023-12-18,C042,Corporate,South,Furniture,Bookcases,Wooden Bookcase,1518.88,87.07,1
+1043,2023-01-16,C043,Home Office,West,Furniture,Bookcases,Metal Bookcase,742.84,129.03,5
+1044,2023-06-30,C044,Corporate,South,Furniture,Chairs,Ergonomic Chair,876.83,91.71,1
+1045,2023-12-05,C045,Consumer,West,Furniture,Chairs,Office Chair Deluxe,1716.94,156.7,2
+1046,2023-04-14,C046,Corporate,South,Office Supplies,Art,Marker Set,1647.3,392.33,5
+1047,2023-11-06,C047,Consumer,West,Furniture,Bookcases,Wooden Bookcase,920.63,159.58,2
+1048,2023-04-23,C048,Consumer,South,Office Supplies,Paper,A4 Copy Paper Pack,1377.05,92.28,1
+1049,2023-01-17,C049,Home Office,South,Technology,Laptops,HP Pavilion Laptop,1390.86,163.94,2
+1050,2023-12-25,C050,Corporate,East,Office Supplies,Binders,Plastic Binder,820.05,199.24,4
+1051,2023-02-06,C051,Corporate,East,Furniture,Tables,Glass Dining Table,1987.58,127.9,3
+1052,2023-02-09,C052,Consumer,West,Technology,Laptops,Dell Inspiron Laptop,1321.66,199.21,2
+1053,2023-02-12,C053,Corporate,Central,Furniture,Sofas,Leather Sofa,583.61,53.91,3
+1054,2023-04-13,C054,Consumer,South,Technology,Laptops,HP Pavilion Laptop,65.99,6.93,5
+1055,2023-11-10,C055,Home Office,East,Office Supplies,Binders,Ring Binder Pack,1156.08,163.12,2
+1056,2023-03-13,C056,Home Office,South,Technology,Accessories,Keyboard Combo,1503.85,338.76,3
+1057,2023-01-17,C057,Home Office,East,Furniture,Bookcases,Metal Bookcase,341.0,55.36,4
+1058,2023-02-26,C058,Home Office,West,Technology,Monitors,"HP 27"" Monitor",1139.05,105.95,1
+1059,2023-10-24,C059,Home Office,East,Technology,Laptops,HP Pavilion Laptop,153.62,31.8,5
+1060,2023-10-27,C060,Home Office,Central,Furniture,Chairs,Ergonomic Chair,380.56,85.64,5
+1061,2023-02-23,C061,Corporate,West,Technology,Laptops,Dell Inspiron Laptop,281.81,17.36,1
+1062,2023-11-20,C062,Home Office,East,Furniture,Tables,Glass Dining Table,604.46,148.2,4
+1063,2023-09-27,C063,Consumer,East,Technology,Laptops,Dell Inspiron Laptop,1174.69,60.23,5
+1064,2023-05-03,C064,Home Office,Central,Office Supplies,Binders,Plastic Binder,675.69,70.32,5
+1065,2023-01-14,C065,Corporate,West,Furniture,Tables,Wooden Study Table,44.17,5.64,4
+1066,2023-05-27,C066,Corporate,West,Office Supplies,Storage,Storage Box,621.92,140.06,3
+1067,2023-03-26,C067,Home Office,Central,Technology,Monitors,"Dell 24"" Monitor",1844.41,200.25,3
+1068,2023-04-10,C068,Consumer,East,Office Supplies,Art,Sketch Pad,313.93,37.07,2
+1069,2023-11-01,C069,Home Office,East,Office Supplies,Storage,Storage Box,80.22,5.25,2
+1070,2023-12-23,C070,Home Office,West,Office Supplies,Art,Marker Set,830.85,205.48,1
+1071,2023-02-11,C071,Home Office,West,Office Supplies,Binders,Ring Binder Pack,659.76,107.17,4
+1072,2023-02-15,C072,Consumer,East,Office Supplies,Art,Sketch Pad,1960.95,273.23,2
+1073,2023-06-13,C073,Corporate,South,Office Supplies,Art,Marker Set,1344.52,237.72,5
+1074,2023-07-29,C074,Home Office,South,Technology,Laptops,HP Pavilion Laptop,130.28,15.48,1
+1075,2023-09-17,C075,Corporate,South,Office Supplies,Art,Sketch Pad,351.13,40.28,4
+1076,2023-10-12,C076,Home Office,East,Furniture,Sofas,Leather Sofa,792.85,156.05,5
+1077,2023-07-02,C077,Home Office,South,Technology,Monitors,"HP 27"" Monitor",379.56,21.1,5
+1078,2023-06-04,C078,Home Office,Central,Office Supplies,Storage,Storage Box,1412.23,185.57,1
+1079,2023-02-07,C079,Consumer,East,Technology,Monitors,"HP 27"" Monitor",1971.15,203.15,3
+1080,2023-01-15,C080,Corporate,South,Office Supplies,Binders,Plastic Binder,1526.33,381.21,4
+1081,2023-01-15,C081,Corporate,South,Furniture,Bookcases,Wooden Bookcase,458.83,76.58,3
+1082,2023-05-01,C082,Consumer,East,Furniture,Bookcases,Metal Bookcase,1591.31,142.0,2
+1083,2023-04-21,C083,Corporate,Central,Technology,Accessories,Wireless Mouse,726.73,86.15,5
+1084,2023-01-13,C084,Consumer,South,Office Supplies,Binders,Plastic Binder,655.54,35.77,2
+1085,2023-01-15,C085,Home Office,West,Office Supplies,Paper,A4 Copy Paper Pack,522.36,48.42,1
+1086,2023-07-09,C086,Home Office,Central,Furniture,Bookcases,Wooden Bookcase,54.49,11.93,2
+1087,2023-11-20,C087,Consumer,East,Technology,Smartphones,Samsung Galaxy S22,671.47,112.01,5
+1088,2023-05-11,C088,Home Office,Central,Technology,Accessories,Wireless Mouse,385.18,95.06,3
+1089,2023-06-07,C089,Home Office,East,Technology,Smartphones,iPhone 14,1609.76,391.78,3
+1090,2023-02-24,C090,Consumer,South,Furniture,Tables,Wooden Study Table,794.69,134.42,4
+1091,2023-01-12,C091,Consumer,West,Office Supplies,Binders,Ring Binder Pack,393.8,22.58,5
+1092,2023-12-14,C092,Home Office,Central,Technology,Monitors,"HP 27"" Monitor",327.48,17.31,3
+1093,2023-09-03,C093,Consumer,East,Technology,Monitors,"Dell 24"" Monitor",1460.03,85.43,4
+1094,2023-03-05,C094,Corporate,South,Office Supplies,Storage,Storage Box,1548.15,366.47,4
+1095,2023-12-18,C095,Corporate,Central,Technology,Monitors,"HP 27"" Monitor",704.94,43.94,4
+1096,2023-10-05,C096,Consumer,South,Office Supplies,Storage,Storage Box,407.39,66.51,3
+1097,2023-12-18,C097,Consumer,South,Furniture,Bookcases,Wooden Bookcase,1812.86,390.54,5
+1098,2023-12-04,C098,Corporate,Central,Technology,Accessories,Keyboard Combo,1590.15,374.44,3
+1099,2023-06-27,C099,Consumer,South,Office Supplies,Binders,Ring Binder Pack,445.11,58.33,4
+1100,2023-02-04,C100,Consumer,East,Furniture,Chairs,Office Chair Deluxe,269.22,30.85,3
+1101,2023-05-16,C101,Home Office,South,Technology,Laptops,HP Pavilion Laptop,21.17,1.65,2
+1102,2023-05-17,C102,Corporate,West,Office Supplies,Storage,Storage Box,721.75,115.24,3
+1103,2023-09-18,C103,Corporate,West,Furniture,Tables,Glass Dining Table,1624.1,103.71,2
+1104,2023-05-28,C104,Home Office,West,Office Supplies,Storage,File Cabinet,1575.84,332.44,4
+1105,2023-02-22,C105,Home Office,West,Furniture,Bookcases,Metal Bookcase,572.5,134.73,3
+1106,2023-01-30,C106,Corporate,West,Furniture,Chairs,Office Chair Deluxe,1568.65,275.26,3
+1107,2023-09-27,C107,Home Office,South,Office Supplies,Binders,Plastic Binder,1712.53,147.67,4
+1108,2023-11-02,C108,Consumer,West,Furniture,Bookcases,Metal Bookcase,154.71,16.0,2
+1109,2023-07-11,C109,Corporate,East,Office Supplies,Art,Sketch Pad,739.95,161.66,2
+1110,2023-10-10,C110,Home Office,South,Office Supplies,Binders,Plastic Binder,1470.19,88.97,4
+1111,2023-11-06,C111,Consumer,West,Furniture,Bookcases,Wooden Bookcase,138.21,10.07,1
+1112,2023-08-15,C112,Home Office,West,Office Supplies,Storage,File Cabinet,444.43,105.99,1
+1113,2023-12-24,C113,Corporate,Central,Technology,Monitors,"HP 27"" Monitor",1443.74,192.48,2
+1114,2023-03-23,C114,Corporate,South,Technology,Accessories,Wireless Mouse,1238.44,78.02,2
+1115,2023-07-27,C115,Corporate,West,Technology,Smartphones,iPhone 14,320.0,53.95,3
+1116,2023-09-01,C116,Home Office,Central,Furniture,Bookcases,Wooden Bookcase,1941.85,148.8,3
+1117,2023-09-02,C117,Home Office,West,Office Supplies,Paper,A4 Copy Paper Pack,1816.48,138.49,2
+1118,2023-07-22,C118,Corporate,West,Furniture,Bookcases,Metal Bookcase,105.41,15.51,3
+1119,2023-09-23,C119,Consumer,Central,Technology,Laptops,HP Pavilion Laptop,823.4,181.9,3
+1120,2023-09-05,C120,Corporate,South,Office Supplies,Binders,Plastic Binder,1350.46,318.39,1
+1121,2023-01-22,C121,Consumer,Central,Technology,Smartphones,Samsung Galaxy S22,1191.0,208.4,3
+1122,2023-05-17,C122,Corporate,West,Technology,Monitors,"HP 27"" Monitor",353.16,19.96,5
+1123,2023-10-30,C123,Consumer,West,Office Supplies,Paper,Legal Paper Pack,1855.6,381.16,5
+1124,2023-11-10,C124,Corporate,South,Technology,Monitors,"HP 27"" Monitor",1125.72,74.06,1
+1125,2023-02-19,C125,Home Office,East,Technology,Monitors,"Dell 24"" Monitor",750.24,172.84,5
+1126,2023-07-31,C126,Home Office,Central,Office Supplies,Storage,Storage Box,1886.29,262.65,3
+1127,2023-05-10,C127,Consumer,West,Technology,Laptops,HP Pavilion Laptop,610.93,148.84,4
+1128,2023-06-24,C128,Corporate,West,Office Supplies,Art,Sketch Pad,1933.84,460.42,4
+1129,2023-11-20,C129,Corporate,West,Office Supplies,Binders,Plastic Binder,778.51,71.96,5
+1130,2023-03-12,C130,Consumer,West,Technology,Smartphones,iPhone 14,1165.77,254.71,2
+1131,2023-06-25,C131,Consumer,East,Office Supplies,Art,Sketch Pad,400.22,54.57,3
+1132,2023-05-24,C132,Corporate,South,Furniture,Sofas,Leather Sofa,194.93,25.06,5
+1133,2023-09-23,C133,Corporate,West,Office Supplies,Art,Marker Set,1326.98,133.25,3
+1134,2023-07-25,C134,Home Office,South,Technology,Monitors,"HP 27"" Monitor",36.27,6.96,5
+1135,2023-01-12,C135,Corporate,Central,Office Supplies,Paper,Legal Paper Pack,682.96,47.53,5
+1136,2023-01-09,C136,Corporate,Central,Office Supplies,Paper,Legal Paper Pack,1532.61,349.93,1
+1137,2023-10-31,C137,Consumer,West,Furniture,Bookcases,Wooden Bookcase,544.67,51.01,1
+1138,2023-04-28,C138,Home Office,West,Furniture,Tables,Wooden Study Table,1483.39,316.26,5
+1139,2023-09-09,C139,Corporate,East,Technology,Accessories,Keyboard Combo,1057.6,262.87,5
+1140,2023-10-24,C140,Corporate,Central,Office Supplies,Paper,A4 Copy Paper Pack,21.63,3.96,2
+1141,2023-10-24,C141,Consumer,West,Furniture,Sofas,Leather Sofa,935.38,92.63,3
+1142,2023-10-28,C142,Consumer,West,Office Supplies,Storage,Storage Box,1992.41,165.48,4
+1143,2023-08-18,C143,Corporate,South,Furniture,Bookcases,Wooden Bookcase,1859.25,440.45,5
+1144,2023-10-18,C144,Consumer,Central,Office Supplies,Paper,A4 Copy Paper Pack,882.16,89.75,5
+1145,2023-08-30,C145,Consumer,South,Technology,Laptops,HP Pavilion Laptop,1485.93,270.06,3
+1146,2023-03-27,C146,Consumer,West,Furniture,Tables,Glass Dining Table,1706.01,238.89,3
+1147,2023-09-15,C147,Corporate,South,Furniture,Chairs,Ergonomic Chair,1163.24,234.33,3
+1148,2023-12-19,C148,Corporate,South,Technology,Laptops,HP Pavilion Laptop,482.06,26.87,5
+1149,2023-02-02,C149,Corporate,Central,Furniture,Bookcases,Metal Bookcase,479.96,68.35,1
+1150,2023-04-27,C150,Consumer,East,Furniture,Sofas,Leather Sofa,587.41,73.49,2
+1151,2023-05-03,C151,Home Office,East,Technology,Accessories,Keyboard Combo,354.94,44.91,1
+1152,2023-07-09,C152,Home Office,West,Furniture,Tables,Glass Dining Table,1403.51,220.38,5
+1153,2023-03-10,C153,Consumer,East,Furniture,Chairs,Office Chair Deluxe,1759.13,371.41,3
+1154,2023-03-21,C154,Home Office,West,Furniture,Tables,Wooden Study Table,532.63,117.94,2
+1155,2023-01-17,C155,Consumer,South,Office Supplies,Art,Sketch Pad,1948.37,469.39,3
+1156,2023-09-14,C156,Consumer,East,Technology,Smartphones,iPhone 14,1917.85,216.65,2
+1157,2023-10-30,C157,Home Office,South,Furniture,Chairs,Office Chair Deluxe,1608.9,117.48,4
+1158,2023-07-28,C158,Corporate,East,Furniture,Chairs,Ergonomic Chair,1275.0,146.51,4
+1159,2023-07-21,C159,Home Office,East,Office Supplies,Art,Marker Set,1922.66,126.22,1
+1160,2023-10-15,C160,Home Office,South,Technology,Monitors,"HP 27"" Monitor",649.3,141.98,3
+1161,2023-08-23,C161,Corporate,West,Furniture,Bookcases,Metal Bookcase,1100.21,79.05,2
+1162,2023-12-17,C162,Consumer,East,Furniture,Sofas,Fabric Sofa,1913.69,158.81,3
+1163,2023-07-25,C163,Corporate,Central,Technology,Smartphones,iPhone 14,1919.35,331.59,3
+1164,2023-12-12,C164,Consumer,West,Technology,Accessories,Wireless Mouse,1404.87,333.28,4
+1165,2023-04-17,C165,Corporate,West,Technology,Monitors,"HP 27"" Monitor",298.31,55.79,5
+1166,2023-07-14,C166,Corporate,West,Technology,Laptops,Dell Inspiron Laptop,375.63,59.49,2
+1167,2023-05-25,C167,Home Office,Central,Office Supplies,Binders,Ring Binder Pack,1775.29,144.79,3
+1168,2023-02-16,C168,Consumer,West,Furniture,Chairs,Ergonomic Chair,722.04,78.8,4
+1169,2023-04-19,C169,Corporate,East,Furniture,Bookcases,Metal Bookcase,1762.57,190.96,5
+1170,2023-11-30,C170,Consumer,East,Office Supplies,Paper,Legal Paper Pack,374.77,78.1,4
+1171,2023-10-06,C171,Home Office,West,Office Supplies,Storage,File Cabinet,99.29,21.19,3
+1172,2023-05-23,C172,Home Office,Central,Office Supplies,Storage,Storage Box,1293.88,212.16,2
+1173,2023-10-10,C173,Home Office,East,Furniture,Bookcases,Metal Bookcase,674.0,80.91,1
+1174,2023-05-09,C174,Home Office,Central,Furniture,Sofas,Fabric Sofa,1018.14,237.17,3
+1175,2023-12-05,C175,Home Office,South,Furniture,Sofas,Leather Sofa,1356.11,281.4,3
+1176,2023-11-29,C176,Home Office,East,Office Supplies,Art,Marker Set,240.0,42.19,3
+1177,2023-06-20,C177,Consumer,Central,Office Supplies,Paper,Legal Paper Pack,1921.9,199.31,1
+1178,2023-12-31,C178,Corporate,West,Furniture,Sofas,Fabric Sofa,912.94,134.09,5
+1179,2023-06-14,C179,Corporate,West,Office Supplies,Binders,Ring Binder Pack,441.8,69.2,4
+1180,2023-12-01,C180,Home Office,East,Office Supplies,Storage,Storage Box,257.48,27.77,5
+1181,2023-10-08,C181,Consumer,East,Office Supplies,Art,Sketch Pad,793.74,181.24,2
+1182,2023-10-17,C182,Corporate,West,Furniture,Sofas,Fabric Sofa,817.72,150.34,4
+1183,2023-09-20,C183,Corporate,Central,Furniture,Sofas,Leather Sofa,253.3,57.07,4
+1184,2023-01-15,C184,Corporate,South,Office Supplies,Paper,A4 Copy Paper Pack,924.44,218.91,4
+1185,2023-01-12,C185,Consumer,West,Office Supplies,Paper,Legal Paper Pack,391.37,29.42,5
+1186,2023-03-26,C186,Consumer,East,Office Supplies,Art,Marker Set,1066.82,159.79,2
+1187,2023-03-05,C187,Home Office,West,Furniture,Bookcases,Metal Bookcase,94.37,16.14,2
+1188,2023-07-06,C188,Consumer,West,Furniture,Chairs,Ergonomic Chair,588.87,96.41,3
+1189,2023-03-22,C189,Corporate,West,Technology,Accessories,Wireless Mouse,662.31,52.44,2
+1190,2023-07-10,C190,Home Office,South,Office Supplies,Art,Marker Set,671.38,100.02,3
+1191,2023-01-28,C191,Corporate,West,Office Supplies,Storage,Storage Box,1902.82,313.07,3
+1192,2023-06-10,C192,Corporate,South,Technology,Monitors,"HP 27"" Monitor",653.78,130.92,5
+1193,2023-02-19,C193,Consumer,South,Office Supplies,Paper,Legal Paper Pack,1842.67,408.28,5
+1194,2023-09-25,C194,Consumer,East,Office Supplies,Paper,A4 Copy Paper Pack,1351.92,122.48,4
+1195,2023-03-22,C195,Corporate,East,Office Supplies,Paper,A4 Copy Paper Pack,767.77,77.8,5
+1196,2023-11-25,C196,Home Office,Central,Office Supplies,Storage,File Cabinet,263.63,19.96,3
+1197,2023-03-25,C197,Home Office,East,Office Supplies,Storage,Storage Box,1978.91,358.76,2
+1198,2023-08-01,C198,Home Office,West,Furniture,Sofas,Leather Sofa,1865.05,409.37,4
+1199,2023-10-24,C199,Consumer,South,Technology,Accessories,Wireless Mouse,1110.48,157.66,2
+1200,2023-01-11,C200,Corporate,South,Office Supplies,Paper,Legal Paper Pack,129.42,16.56,5
